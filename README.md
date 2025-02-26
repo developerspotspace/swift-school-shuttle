@@ -1,3 +1,70 @@
+# 🚍 Swift School Shuttle
+
+Swift School Shuttle is a front-end web application designed to enhance school transportation by providing **real-time bus tracking**, **automated route management**, **instant notifications**, and **secure role-based access** for parents, drivers, and administrators.
+
+---
+
+## 📌 Features
+✅ Real-Time Bus Tracking  
+✅ Automated Route Management  
+✅ Instant Alerts & Notifications  
+✅ Parent & Admin Dashboards  
+✅ Secure Role-Based Login  
+
+---
+
+## 🔧 Installation Guide
+
+### **1️⃣ Prerequisites**
+Ensure you have the following installed on your system:
+- **[Node.js](https://nodejs.org/)** (version 16 or higher)
+- **[Git](https://git-scm.com/)**
+- A **code editor** like **[VS Code](https://code.visualstudio.com/)**
+
+### **2️⃣ Clone the Repository**
+Run the following command in your terminal:
+```sh
+git clone https://github.com/developerspotspace/swift-school-shuttle.git
+3️⃣ Navigate to the Project Folder
+
+cd swift-school-shuttle
+4️⃣ Install Dependencies
+Run this command to install all required packages:
+
+
+npm install
+5️⃣ Start the Development Server
+Run the following command to launch the project in your browser:
+
+
+npm start
+The app will be available at http://localhost:3000/.
+
+📦 Required Dependencies
+The following libraries are used in this project:
+
+Package	Description
+react	Core React framework
+react-dom	Rendering for React
+react-router-dom	Routing for navigation
+@mui/material	Material-UI for modern UI components
+@mui/icons-material	Icons for UI components
+@emotion/react & @emotion/styled	Styling library for Material-UI
+recharts	Library for data visualization
+If any dependencies are missing, you can install them manually using:
+
+
+npm install package-name
+✨ Usage
+Open http://localhost:3000/
+Click "Get Started" to go to the login page.
+Select Admin, Parent, or Driver to access their respective dashboards.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
